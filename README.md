@@ -1,3 +1,8 @@
+## How to run?
+1. Create a virtual environment.
+2. pip install -r requirements.txt
+3. streamlit run app.py
+
 ## With CPU:
 10 epochs completed in 0.963 hours.
 Optimizer stripped from /home/red_crown/Documents/Project/Garbage_Detection_Project/runs/detect/train/weights/last.pt, 6.3MB
